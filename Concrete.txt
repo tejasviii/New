@@ -145,6 +145,186 @@ Creep of concrete is the permanent deformation reported in a part of a structure
 Creep deformation generally occurs in 3 stages. These stages are called primary creep, secondary creep and tertiary creep. In the primary stage, concrete creep starts rapidly, and the rate decreases with time. In the secondary stage, creep generally occurs at a constant rate. And in the tertiary stage, creep starts at an increasing rate until the structural member breaks down.
 
 
+Shrinkage
+Shrinkage is the contraction that occurs in concrete when it dries and hardens due to moisture content evaporation. The amount of shrinkage increases with time as shown in figure B. The aggregate contents present in concrete are the most important factors influencing shrinkage. This is because the larger the aggregate, the lower is the shrinkage and the higher is the aggregate content, the lower the water-cement ratio and workability are. A decrease in ambient humidity also increases shrinkage.
+
+
+Elasticity :-
+
+Modulus of elasticity of concrete(Ec) is defined as the ratio of the applied stress to the corresponding strain. Not only does it demonstrate the ability of concrete to withstand deformation due to applied stress but also its stiffness. In other words, it reflects the ability of concrete to deflect elastically. Modulus of elasticity of concrete is sensitive to aggregate and mixture proportions of concrete.
+
+In the design of concrete structures, modulus of elasticity is considerably important that requires to be defined. The linear analysis of elements, which is based on elastic theory, is used in some cases to satisfy requirements of ultimate and serviceability limit state such as in the design of pre-stressed concrete structures.
+
+Common applicable codes around the world such as ACI Code, European Code, British Standards, Canadian standard association, and Indian standard have provided a formula for the computation of elastic modulus of concrete.
+
+
+.........................................................................................
+
+Q) Describe admixtures how admixtures effect strength and heat of hydration of concrete give examples?
+
+Effect of Usage of Admixture in Concrete :-
+
+These admixtures can be broadly catagorised as superplasticizers, accelerators, retarders, water reducers and air entraining admixtures. Superplasticizers are added to reduce the water requirement by 15 to 20% without affecting the workability leading to a high strength and dense concrete.
+
+Concrete should be workable, finishable, strong,
+durable, watertight, and wear resistant. These qualities can
+often be obtained easily and economically by the selection
+of suitable materials rather than by resorting to admixtures
+(except air-entraining admixtures when needed).
+The major reasons for using admixtures are:
+1. To reduce the cost of concrete construction
+2. To achieve certain properties in concrete more effectively than by other means
+3. To maintain the quality of concrete during the stages
+of mixing, transporting, placing, and curing in adverse weather conditions
+4. To overcome certain emergencies during concreting
+operations
+Despite these considerations, it should be borne in
+mind that no admixture of any type or amount can be
+considered a substitute for good concreting practice.
+The effectiveness of an admixture depends upon
+factors such as type, brand, and amount of cementing
+materials; water content; aggregate shape, gradation,
+and proportions; mixing time; slump; and temperature
+of the concrete.
+Admixtures being considered for use in concrete
+should meet applicable specifications as presented in
+Table 6-1. Trial mixtures should be made with the admixture and the job materials at temperatures and humidities
+anticipated on the job. In this way the compatibility of the
+admixture with other admixtures and job materials, as
+well as the effects of the admixture on the properties of the
+fresh and hardened concrete, can be observed. The
+amount of admixture recommended by the manufacturer
+or the optimum amount determined by laboratory tests
+should be used.
+
+Water-Reducing Admixtures: These admixtures reduce the amount of water required for a given consistency of concrete, resulting in improved workability without sacrificing strength. They reduce the water-cement ratio and increase the strength by reducing the voids in the concrete matrix. Examples include lignosulfonates, polycarboxylates, and hydroxylated carboxylic acids.
+
+High-Range Water-Reducing Admixtures (Superplasticizers): These admixtures have a significant water-reducing effect, leading to improved workability and increased strength. They allow for substantial water reduction without compromising the flowability of concrete. Superplasticizers include sulfonated melamine formaldehyde (SMF) and sulfonated naphthalene formaldehyde (SNF).
+
+Impact on Heat of Hydration: The heat of hydration refers to the heat released during the chemical reaction between cement and water. Admixtures can influence the heat of hydration by altering the reaction kinetics. Some admixtures, such as set retarders, can reduce the heat of hydration by slowing down the reaction rate. On the other hand, accelerators may increase the heat of hydration due to faster cement hydration.
+
+Examples of admixtures affecting both strength and heat of hydration:
+
+Fly Ash: This pozzolanic admixture improves concrete strength, especially in the long term. It reduces the heat of hydration due to its slower reaction rate with water.
+
+Superplasticizers: These high-range water-reducing admixtures increase the strength of concrete by reducing water content while maintaining workability. They do not significantly affect the heat of hydration.
+.........................................................................................
+### Mix Design for M20 Cement :-
+
+1. REQUIREMENTS
+a) Specified minimum strength = 20 N/Sq mm
+
+b) Durability requirements
+i) Exposure Moderate
+ii) Minimum Cement Content = 300 Kgs/cum
+
+c) Cement
+(Refer Table No. 5 of IS:456-2000)
+i) Make Chetak (Birla)
+ii) Type OPC
+iii) Grade 43
+
+
+d) Workability
+i) compacting factor = 0.7
+
+e) Degree of quality control Good
+
+2. TEST DATA FOR MATERIALS SUPPLIED
+a) CEMENT
+i) Specific gravity = 3.05
+ii) Avg. comp. strength 7 days = 46.5 more than 33.0 OK
+28 days = 55.0 more than 43.0 OK
+
+b) COARSE AGGREGATE
+i) 20mm Graded
+Type Crushed stone aggregate
+Specific gravity = 2.68
+Water absorption = 1.46
+Free (surface) moisture = 0
+
+sieve_analysis_m20_grade_of_concrete
+
+c) FINE AGGREGATE (Coarse sand)
+i) Type Natural (Ghaggar)
+Specific gravity = 2.6
+Water absorption = 0.5
+Free (surface) moisture = 1.4
+
+sieve_analysis_fine_m20_grade_of_concrete
+
+3. TARGET MEAN STRENGTH (TMS)
+a) Statistical constant K = 1.65
+b) Standard deviation S = 4.6
+Thus, TMS = 27.59 N/Sqmm
+
+4. SELECTION OF W/C RATIO
+a) As required for TMS = 0.5
+b) As required for ‘Moderate’ Exposure = 0.55
+Assume W/c ratio of 0.5
+
+5. DETERMINATION OF WATER & SAND CONTENT
+For W/C = 0.6
+C.F. = 0.8
+Max. Agg. Size of 20 mm
+a) Water content = 186 Kg/cum
+b) Sand as percentage of total aggregate by absolute volume = 35 %
+
+Thus,
+Net water content = 180.42 Kg/cum
+Net sand percentage = 33 %
+
+6. DETERMINATION OF CEMENT CONTENT
+W/c ratio = 0.5
+Water content = 180.42 Kg/cum
+Thus, Cement content = 360.84 Kg/cum Adequate for moderate exposure Say 360 Kg/cum
+
+7. DETERMINATION OF COARSE AND FINE AGGREGATE CONTENT
+Assume entrapped air as 2 %
+Thus,
+0.98 cum = [180.42+360/3.05 + {1/0.33}*{fa/2.6}]/1000
+& 0.98 cum = [180.42+360/3.05 + {1/0.67}*{Ca/2.68}]/1000
+Hence,
+fa = 584 Kg/cum
+Ca = 1223.8 Kg/cum
+
+The final mix proportions of M-20 grade of concrete become:-
+
+...........................................................................................
+## Short Notes :-
+
+1. Fire resistance :-
+Concrete does not burn – it cannot be set on fire and it does not emit any toxic fumes when affected by fire. Concrete is proven to have a high degree of fire resistance and, in the majority of applications, can be described as virtually fireproof.
+Fire resistance of concrete is considered one of the most important properties which protects life, property and the environment in the case of fire. It responds effectively to all the protective aims of safety and serviceability of building construction, benefiting everyone from building users, owners, businesses and residents to insurers, regulators and fire-fighters. Whether it is used for residential buildings, industrial warehouses or tunnels work, concrete can be designed and specified to remain robust even in the most extreme fire situations.
+
+2. Polymer concrete:-
+Polymer concrete, also known as Epoxy Granite, is a type of concrete that uses a polymer to replace lime-type cements as a binder. In some cases the polymer is used in addition to Portland cement to form Polymer Cement Concrete (PCC) or Polymer Modified Concrete (PMC).
+
+Polymer concrete may be used for new construction or repairing of old concrete. The adhesive properties of polymer concrete allow repair of both polymer and conventional cement-based concretes. The corrosion resistance and low permeability of polymer concrete allows it to be used in swimming pools, sewer structure applications, drainage channels, electrolytic cells for base metal recovery, and other structures that contain liquids or corrosive chemicals. It is especially suited to the construction and rehabilitation of manholes due to their ability to withstand toxic and corrosive sewer gases and bacteria commonly found in sewer systems. Unlike traditional concrete structures, polymer concrete requires no coating or welding of PVC-protected seams.[4] It can also be used as a bonded wearing course for asphalt pavement, for higher durability and higher strength upon a concrete substrate, and in skate parks, as it is a very smooth surface.
+
+
+3. Ready-mix concrete :-
+Ready-mix concrete (RMC) is concrete that is manufactured in a batch plant, according to each specific job requirement, then delivered to the job site "ready to use".[1]
+
+There are two types with the first being the barrel truck or in–transit mixers. This type of truck delivers concrete in a plastic state to the site.[2] The second is the volumetric concrete mixer. This delivers the ready mix in a dry state and then mixes the concrete on site. However, other sources divide the material into three types: Transit Mix, Central Mix or Shrink Mix concrete.[3]
+
+Ready-mix concrete refers to concrete that is specifically manufactured for customers' construction projects, and supplied to the customer on site as a single product. It is a mixture of Portland or other cements, water and aggregates: sand, gravel, or crushed stone.[4] All aggregates should be of a washed type material with limited amounts of fines or dirt and clay. An admixture is often added to improve workability of the concrete and/or increase setting time of concrete (using retarders) to factor in the time required for the transit mixer to reach the site.
+
+4. lightweight concrete:-
+
+Lightweight concrete can be defined as a type of concrete which includes an expanding agent in that it increases the volume of the mixture while giving additional qualities such as nailbility and lessened the dead weight. It is lighter than the conventional concrete.
+
+Lightweight concrete is a mixture made with lightweight coarse aggregates such as shale, clay, or slate, which give it its characteristic low density. Structural lightweight concrete has an in-place density of 90 to 115 lb/ft³, whereas the density of regular weight concrete ranges from 140 to 150 lb/ft³. This makes lightweight concrete ideal for building modern structures that require minimal cross sections in the foundation. It is being increasingly used to build sleek foundations, and has emerged as a viable alternative to regular concrete.
+
+
+
+
+
+
+
+
+
+
 
 
 
