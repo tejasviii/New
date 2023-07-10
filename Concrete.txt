@@ -1,0 +1,152 @@
+WHAT ARE THE PROPERTIES OF FRESH CONCRETE?
+
+Properties of Fresh Concrete :-
+Concrete remains in its fresh state from the time it is mixed until it sets. During this time the concrete is handled, transported, placed and compacted. Properties of concrete in its fresh state are very important because the influence the quality of the hardened concrete.
+
+The fresh concrete has the following procedure.
+
+Consistency
+Workability
+Settlement & Bleeding
+Plastic shrinkage
+Loss of consistency
+
+1. Consistency
+Consistency of a concrete mix is a measure of the stiffness or sloppiness or fluidity of the mix. For effective handling, placing and compacting the concrete, consistency must be the same for each batch. It is therefore necessary to measure consistency of concrete at regular intervals. Slump test is commonly used to measure consistency of concrete.
+
+2. Workability
+The workability of a concrete mix is the relative ease with which concrete can be placed, compacted and finished without separation or segregation of the individual materials.
+
+Workability is not the same thing as consistency. Mixes with the same consistency can have different workabilities, if they are made with different sizes of stone – the smaller the stone the more workable the concrete.
+
+It is not possible to measure workability but the slump test, together with an assessment of properties like stone content, cohesiveness and plasticity, gives a useful indication.
+
+3. Settlement and Bleeding
+Cement and aggregate particles have densities about three times that of water. In fresh concrete they consequently tend to settle and displace mixing water which migrates upward and may collect on the top surface of the concrete. This upward movement of mixing water is known as bleeding; water that separates from the rest of the concrete is called bleed water.
+
+4. Plastic Shrinkage
+If water is removed from the compacted concrete before it sets, the volume of the concrete is reduced by the amount of water removed. This volume reduction is called plastic shrinkage.
+
+Water may be removed from the plastic concrete by evaporation or by being absorbed by dry surfaces such as soil or old concrete or by the dry wooden form work.
+
+5. Slump Loss
+From the time of mixing, fresh concrete gradually loses consistency. This gives rise to the problems only if the concrete becomes too stiff to handle, place and compact properly.
+
+Slump loss in concrete is caused due to the following reasons.
+
+Hydration of cement (generating more heat)
+Loss of water by evaporation
+Absorption of water by dry aggregates
+Absorption of water by surfaces in contact with the concrete.
+...........................................................................................
+
+Non-destructive tests of concrete :-Non-destructive tests of concrete is a method to obtain the compressive strength and other properties of concrete from the existing structures. This test provides immediate results and actual strength and properties of concrete structure.
+The standard method of evaluating the quality of concrete in buildings or structures is to test specimens cast simultaneously for compressive, flexural and tensile strengths.
+
+The main disadvantages are that results are not obtained immediately; that concrete in specimens may differ from that in the actual structure as a result of different curing and compaction conditions; and that strength properties of a concrete specimen depend on its size and shape.
+These non-destructive methods may be categorized as penetration tests, rebound tests, pull-out techniques, dynamic tests, radioactive tests, maturity concept. It is the purpose of this Digest to describe these methods briefly, outlining their advantages and disadvantages.
+
+Methods of Non-Destructive Testing of Concrete:-
+Following are different methods of NDT on concrete:
+
+Penetration method
+Rebound hammer method
+Pull out test method
+Ultrasonic pulse velocity method
+Radioactive methods
+
+Rebound Hammer Method:-The rebound hammer is a surface hardness tester for which an empirical correlation has been established between strength and rebound number.
+The only known instrument to make use of the rebound principle for concrete testing is the Schmidt hammer, which weighs about 4 lb (1.8 kg) and is suitable for both laboratory and field work. It consists of a spring-controlled hammer mass that slides on a plunger within a tubular housing.
+The hammer is forced against the surface of the concrete by the spring and the distance of rebound is measured on a scale. The test surface can be horizontal, vertical or at any angle but the instrument must be calibrated in this position.
+
+Calibration can be done with cylinders (6 by 12 in., 15 by 30 cm) of the same cement and aggregate as will be used on the job. The cylinders are capped and firmly held in a compression machine.
+
+Several readings are taken, well distributed and reproducible, the average representing the rebound number for the cylinder. This procedure is repeated with several cylinders, after which compressive strengths are obtained.
+...........................................................................................
+
+Factors Affecting Strength of Concrete :-
+Concrete strength is affected by many factors, such as quality of raw materials, water/cement ratio, coarse/fine aggregate ratio, age of concrete, compaction of concrete, temperature, relative humidity and curing of concrete.
+
+Quality of Raw Materials:-
+Cement: Provided the cement conforms with the appropriate standard and it has been stored correctly (i.e. in dry conditions), it should be suitable for use in concrete. Aggregates: Quality of aggregates, its size, shape, texture, strength etc determines the strength of concrete. The presence of salts (chlorides and sulphates), silt and clay also reduces the strength of concrete. 
+Water: frequently the quality of the water is covered by a clause stating “..the water should be fit for drinking..”. This criterion though is not absolute and reference should be made to respective codes for testing of water construction purpose.
+
+Water / Cement Ratio:- 
+The higher the water/cement ratio, the greater the initial spacing between the cement grains and the greater the volume of residual voids not filled by hydration products. There is one thing missing on the graph. For a given cement content, the workability of the concrete is reduced if the water/cement ratio is reduced. A lower water cement ratio means less water, or more cement and lower workability. However if the workability becomes too low the concrete becomes difficult to compact and the strength reduces. For a given set of materials and environment conditions, the strength at any age depends only on the water-cement ratio, providing full compaction can be achieved.
+
+Coarse / fine aggregate ratio :-
+
+Following points should be noted for coarse/fine aggregate ratio:
+If the proportion of fines is increased in relation to the coarse aggregate, the overall aggregate surface area will increase.
+If the surface area of the aggregate has increased, the water demand will also increase.
+Assuming the water demand has increased, the water cement ratio will increase.
+Since the water cement ratio has increased, the compressive strength will decrease.
+
+Compaction of concrete :-
+Any entrapped air resulting from inadequate compaction of the plastic concrete will lead to a reduction in strength. If there was 10% trapped air in the concrete, the strength will fall down in the range of 30 to 40%.
+
+........................................................................................
+
+Stress Strain relationship for concrete :-
+
+Stress Strain relationship for concrete : The experimental or actual stress strain curve for concrete is very difficult to use in design Therefore, IS code 456:2000 has simplified or idealized it as shown in Fig.
+
+For design purpose, the compressive strength of concrete in the structure in taken as 0.67 times the characteristic strength. The 0.67 factor is introduced to account for the difference in the strength indicated by a cube test and the strength of concrete in actual structure.
+
+The partial safety factor (rmc), equal to 1.5 is applied in addition to this 0.67 factor.
+
+The initial portion of the curve is parabolic. After a strain of 0.002 (0.2%), the stress becomes constant with increasing load, until a strain of 0.0035 is reached and here the concrete is assumed to have failed.
+.........................................................................................
+
+Q) Concrete Tests :-
+
+Water Absorption test : -
+The water absorption test determines the durability of concrete. The three cube samples shall be taken from the tank for 28 days 24 hours the concrete sample would be demoulded and it will be sent directly to the approved third-party laboratory to ensure its curing. The size of the cube sample is 150 mm.
+
+Compressive Strength Test :-
+
+The compressive strength of the concrete cube test provides an idea about all the characteristics of concrete. By this single test one judge that whether Concreting has been done properly or not. Concrete compressive strength for general construction varies from 15 MPa (2200 psi) to 30 MPa (4400 psi) and higher in commercial and industrial structures.
+
+Compressive strength of concrete depends on many factors such as water-cement ratio, cement strength, quality of concrete material, quality control during the production of concrete, etc.
+		Compressive Strength = Load / Cross-sectional Area
+Test for compressive strength is carried out either on a cube or cylinder. Various standard codes recommend a concrete cylinder or concrete cube as the standard specimen for the test. American Society for Testing Materials ASTM C39/C39M provides Standard Test Method for Compressive Strength of Cylindrical Concrete Specimens.
+
+Compressive strength is the ability of material or structure to carry the loads on its surface without any crack or deflection. A material under compression tends to reduce the size, while in tension, size elongates.
+
+Slump Cone Test :-
+
+Concrete slump test or slump cone test is to determine the workability or consistency of concrete mix prepared at the laboratory or the construction site during the progress of the work. Concrete slump test is carried out from batch to batch to check the uniform quality of concrete during construction. The slump test is the most simple workability test for concrete, involves low cost and provides immediate results. Due to this fact, it has been widely used for workability tests since 1922. The slump is carried out as per procedures mentioned in ASTM C143 in the United States, IS: 1199 – 1959 in India and EN 12350-2 in Europe. Generally concrete slump value is used to find the workability, which indicates water-cement ratio, but there are various factors including properties of materials, mixing methods, dosage, admixtures etc. also affect the concrete slump value.
+
+The test is carried out using a metal mould in the shape of a conical frustum known as a slump cone or Abrams cone, that is open at both ends and has attached handles. The tool typically has an internal diameter of 100 millimetres (3.9 in) at the top and of 200 millimetres (7.9 in) at the bottom with a height of 305 millimetres (12.0 in).The cone is placed on a hard non-absorbent surface. This cone is filled with fresh concrete in three stages. Each time, each layer is tamped 25 times with a 2 ft (600 mm)-long bullet-nosed metal rod measuring 5/8 in (16 mm) in diameter.[2] At the end of the third stage, the concrete is struck off flush with the top of the mould. The mould is carefully lifted vertically upwards, so as not to disturb the concrete cone.
+
+...........................................................................................
+
+what is high performance concrete where it specific uses in civil engineering?
+--> The high-performance concrete has been used in the construction of bridges, hydropower structures, pavements, bridges, high-density radiation shielding, mass concrete projects, offshore platforms noise and vibration dampening, tunnels, and high-rise structures.
+
+1. High Rise Structures
+The use of high-performance concrete in the constructions of high-rise buildings leads to the reduction of dead load, deflection, vibration, and maintenance concrete.
+
+2. Bridges
+The use of high-performance concrete in the construction of bridge structures provides several structural improvements. For instance, it improves the durability of the structures and hence increases their life span.
+
+Moreover, longer span prestressed concrete girders can be constructed when high-performance concrete is employed. This is because such concrete results in a smaller loss in pre-stress and consequently larger permissible stress and smaller cross-section being achieved.
+
+3. Highway Pavements
+Application of high-performance concrete in highway pavements is greatly advantageous due to the potential economic benefits that can be derived from the early strength gain of high-performance concrete, reduced permeability, improved abrasion resistance to steel studded tires, and enhanced freeze-thaw durability. The high-performance concrete can also be used to repair damaged pavement since it can be put into service quickly.
+
+4. Hydropower Structures
+High-performance concrete has been used for lining spillway, diversion tunnel, headrace tunnel, slit flushing tunnel, tailrace tunnel to increase the performance of these structures in handling high velocities of water and a large amount of silt. The use of High-Performance concrete has resulted in lesser repairs, on one hand, and increased durability, on the other hand.
+........................................................................................
+
+What is Creep of Concrete?
+Creep of concrete is the permanent deformation reported in a part of a structure due to the sustained load for a long time. Creep indicates that strain in the structure continuously increases, but stress remains constant. Creep in a structure will depend on the structural material, loading quantity, loading duration, etc. Creep in concrete structures will be lesser than in steel structures.
+
+Creep deformation generally occurs in 3 stages. These stages are called primary creep, secondary creep and tertiary creep. In the primary stage, concrete creep starts rapidly, and the rate decreases with time. In the secondary stage, creep generally occurs at a constant rate. And in the tertiary stage, creep starts at an increasing rate until the structural member breaks down.
+
+
+
+
+
+
+
